@@ -1,3 +1,3 @@
-#demo
+# Demo
 
-the basic project i made 
+The clone!!
